@@ -30,7 +30,7 @@
                 x:Name="btnGenerateQuote"
                 Grid.Row="1"
                 BackgroundColor="Black"
-                
+                Clicked="btnGenerateQuote_Clicked"
                 Opacity=".4"
                 Text="Nauja Citata" />
         </Grid>
